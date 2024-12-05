@@ -1,0 +1,8 @@
+main: me.Mastervrunner.Stair.Main
+name: Stair
+version: 1.0
+author: Me - MasterV
+api-version: 1.13
+
+commands: 
+   Stair: 
